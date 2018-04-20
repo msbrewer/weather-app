@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/msbrewer/weather-app/issues"
   },
-  "homepage": "https://github.com/msbrewer/weather-app#readme"
+  "homepage": "https://github.com/msbrewer/weather-app#readme",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
+  }
 }
