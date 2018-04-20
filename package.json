@@ -1,0 +1,19 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Returns weather forecast for entered location",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/msbrewer/weather-app.git"
+  },
+  "author": "Michael Brewer",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/msbrewer/weather-app/issues"
+  },
+  "homepage": "https://github.com/msbrewer/weather-app#readme"
+}
